@@ -1,6 +1,6 @@
 # Retail API
 
-Test project for a generic API in a retail application setting.
+Test project for a generic API in a retail application setting using DRF.
 
 ---
 
